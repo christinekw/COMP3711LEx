@@ -6,4 +6,4 @@ This is my 1st lab in COMP3111 -  Software Engineering
 2. I have successfully created my first GitHub to share propject source with others
 
 Here is the screenshot of my 1st lab project in IntelliJ:
-![Screenshot 2023-09-12 at 8.35.48 PM.png](Screenshot%202023-09-12%20at%208.35.48%20PM.png)
+![Screenshot 2023-09-12 at 8.47.21 PM.png](Screenshot%202023-09-12%20at%208.47.21%20PM.png)
